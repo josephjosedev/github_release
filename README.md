@@ -1,7 +1,8 @@
-You can create a release to package software, along with release notes and links to binary files, for other people to use.
+  **GITHUB RELEASE**
+<p>You can create a release to package software, along with release notes and links to binary files, for other people to use.</P>
 
 
-Releases are deployable software iterations you can package and make available for a wider audience to download and use.
+**Releases are deployable software iterations you can package and make available for a wider audience to download and use.**
 
 Releases are based on Git tags, which mark a specific point in your repository's history. A tag date may be different than a release date since they can be created at different times. For more information about viewing your existing tags, see "Viewing your repository's releases and tags."
 
